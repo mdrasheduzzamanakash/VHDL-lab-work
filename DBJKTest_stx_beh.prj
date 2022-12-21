@@ -1,0 +1,3 @@
+vhdl isim_temp "JK.vhd"
+vhdl isim_temp "DoubleJK.vhd"
+vhdl isim_temp "DBJKTest.vhd"

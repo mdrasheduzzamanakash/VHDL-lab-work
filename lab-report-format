@@ -1,0 +1,40 @@
+-- lab report format for parallel adder 
+	
+	(A - B) kore nia aste hobe
+	(A + not(B) + 1) = (A - B)
+	
+-- 
+
+report :::
+	title
+	Objectives
+	Hardware requirements and software requirements 
+	What is Structural design 
+		structural design basic 
+		Explanation of structural design 
+	A - B and how it all are happening in different steps 
+		How to do complement of 2
+		How to subtruct using complement of 2
+		New component defination using VHDL(NOT gate)
+		Performing the operation 
+		
+		
+		
+		*** Karnug Map 
+		*** sequential vs combinational circuit
+		*** why clock edge is used instead of the clock rise or clock down
+		
+		
+		
+		3. Next Lab ::
+		T flip flop
+		D flip flop
+		4 bit register => |D/T/JK | D/T/JK | D/T/JK | D/T/JK| -> must do with D flipflop
+		
+		
+	Next lab---
+		4 bit Shift register design
+		reg-val       input
+		0101          0 ==== 1010
+		1010          1 ==== 0101
+		0101          0 ==== 1010

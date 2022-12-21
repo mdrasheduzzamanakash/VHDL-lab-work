@@ -1,0 +1,28 @@
+Command line:
+   FourBitRegisterUsingDFFTest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  5558
+
+Wed Dec 14 11:15:16 2022
+
+
+ Elaboration Time: 0.09375 sec
+
+ Current Memory Usage: 5154.45 Meg
+
+ Total Signals          : 64
+ Total Nets             : 26
+ Total Signal Drivers   : 23
+ Total Blocks           : 11
+ Total Primitive Blocks : 5
+ Total Processes        : 22
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 387
+
+ Total Simulation Time: 0.15625 sec
+
+ Current Memory Usage: 5469.02 Meg
+
+Wed Dec 14 11:15:48 2022
+

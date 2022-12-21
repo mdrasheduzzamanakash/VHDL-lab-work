@@ -1,0 +1,28 @@
+Command line:
+   DFFTest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59647
+
+Wed Dec 21 00:40:20 2022
+
+
+ Elaboration Time: 0.03 sec
+
+ Current Memory Usage: 198.791 Meg
+
+ Total Signals          : 19
+ Total Nets             : 8
+ Total Signal Drivers   : 8
+ Total Blocks           : 4
+ Total Primitive Blocks : 2
+ Total Processes        : 7
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 369
+
+ Total Simulation Time: 0.04 sec
+
+ Current Memory Usage: 274.293 Meg
+
+Wed Dec 21 00:40:23 2022
+

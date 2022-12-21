@@ -1,0 +1,4 @@
+vhdl work "SR.vhd"
+vhdl work "DFF.vhd"
+vhdl work "ShiftRegister.vhd"
+vhdl work "ShiftRegisterTB.vhd"

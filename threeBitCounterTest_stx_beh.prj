@@ -1,0 +1,3 @@
+vhdl isim_temp "TflipflopFallingEdge.vhd"
+vhdl isim_temp "threeBitCounter.vhd"
+vhdl isim_temp "threeBitCounterTest.vhd"

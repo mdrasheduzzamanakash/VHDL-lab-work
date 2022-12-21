@@ -1,0 +1,3 @@
+vhdl work "JK.vhd"
+vhdl work "DoubleJK.vhd"
+vhdl work "DBJKTest.vhd"

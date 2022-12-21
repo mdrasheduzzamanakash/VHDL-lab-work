@@ -1,0 +1,4 @@
+vhdl isim_temp "SR.vhd"
+vhdl isim_temp "DFF.vhd"
+vhdl isim_temp "ShiftRegister.vhd"
+vhdl isim_temp "ShiftRegisterTB.vhd"

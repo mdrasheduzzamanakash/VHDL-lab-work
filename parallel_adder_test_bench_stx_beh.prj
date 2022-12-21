@@ -1,0 +1,3 @@
+vhdl isim_temp "fuladr.vhd"
+vhdl isim_temp "parallelAdder.vhd"
+vhdl isim_temp "parallel_adder_test_bench.vhd"

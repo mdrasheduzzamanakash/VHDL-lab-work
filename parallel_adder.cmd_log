@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "D:/dsd lab/lab-01/parallel_adder.xst" -ofn "D:/dsd lab/lab-01/parallel_adder.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "parallel_adder.ngc" parallel_adder.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o parallel_adder_map.ncd parallel_adder.ngd parallel_adder.pcf 
+par -w -intstyle ise -ol high -mt off parallel_adder_map.ncd parallel_adder.ncd parallel_adder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml parallel_adder.twx parallel_adder.ncd -o parallel_adder.twr parallel_adder.pcf 
